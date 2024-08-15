@@ -6,7 +6,7 @@
  * @LastEditTime: 2024-02-03 16:45:03
 -->
 
-# <center>PC后台管理系统模版
+# <center> PC后台管理系统模版
 
 vue3 + vite3 + ts + navie-ui 
 
